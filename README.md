@@ -1,5 +1,5 @@
 # 3720Spring23
-##Test Repo for GitHub/Git Overview Day
+## Test Repo for GitHub/Git Overview Day
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar. Eget velit aliquet sagittis id consectetur purus ut. Ipsum suspendisse ultrices gravida dictum fusce ut. A diam maecenas sed enim ut sem viverra. Urna id volutpat lacus laoreet non curabitur gravida. Dignissim suspendisse in est ante in. Donec ac odio tempor orci dapibus ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet enim. Massa placerat duis ultricies lacus sed.
